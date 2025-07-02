@@ -1,0 +1,77 @@
+district_name,full,partial,untrained,province
+Taplejung,56.2,20.5,23.3,Province 1
+Panchthar,43.6,3.8,52.6,Province 1
+Ilam,63.6,2.9,33.5,Province 1
+Jhapa,47.8,11.2,41.0,Province 1
+Morang,37.8,7.8,54.4,Province 1
+Sunsari,60.8,15.9,23.3,Province 1
+Dhankuta,42.2,23.0,34.8,Province 1
+Terhathum,46.9,17.3,35.8,Province 1
+Sangkhuwasabha,56.4,16.8,26.8,Province 1
+Bhojpur,53.6,27.3,19.1,Province 1
+Solukhumbu,52.9,20.6,26.5,Province 1
+Khotang,52.0,23.0,25.0,Province 1
+Okhaldhunga,42.6,24.1,33.3,Province 1
+Udayapur,63.6,10.4,26.1,Province 1
+Saptari,66.7,5.6,27.8,Province 2
+Siraha,58.5,9.4,32.1,Province 2
+Dhanusha,48.7,23.7,27.6,Province 3
+Mahottari,56.0,10.5,33.5,Province 3
+Sarlahi,45.0,20.0,35.0,Province 3
+Sindhuli,58.6,17.3,24.1,Province 3
+Ramechhap,56.9,18.8,24.4,Province 3
+Dolakha,57.9,11.2,31.0,Province 3
+Sindhupalchok,52.1,26.5,21.4,Province 3
+Kabhrepalanchok,50.5,20.2,29.3,Province 3
+Lalitpur,51.9,16.1,32.0,Province 3
+Bhaktapur,71.1,13.9,15.0,Province 2
+Kathmandu,58.6,16.0,25.4,Province 2
+Nuwakot,43.8,19.6,36.6,Province 2
+Rasuwa,50.9,19.3,29.8,Province 2
+Dhading,59.2,16.0,24.8,Province 2
+Makawanpur,55.2,19.4,25.4,Province 2
+Rautahat,68.7,10.0,21.3,Province 3
+Bara,62.4,6.4,31.2,Province 3
+Parsa,28.2,21.4,50.5,Province 3
+Chitawan,61.0,11.9,27.1,Province 3
+Gorkha,75.9,7.6,16.5,Gandaki
+Lamjung,46.2,29.4,24.3,Gandaki
+Manang,100.0,0.0,0.0,Gandaki
+Kaski,44.4,47.6,8.1,Gandaki
+Tanahun,72.8,10.5,16.7,Gandaki
+Syangja,46.3,11.9,41.8,Gandaki
+Parbat,51.2,28.6,20.2,Gandaki
+Baglung,58.8,15.9,25.3,Gandaki
+Myagdi,80.0,6.3,13.8,Gandaki
+Mustang,71.6,4.5,23.9,Gandaki
+Palpa,56.1,7.3,36.7,Province 5
+Nawalparasi,65.4,7.3,27.3,Province 5
+Rupandehi,69.1,15.4,15.5,Province 5
+Kapilbastu,60.8,13.7,25.5,Province 5
+Arghakhanchi,63.3,14.4,22.3,Province 5
+Gulmi,49.6,18.7,31.7,Province 5
+Rukum,0.0,0.0,0.0,Karnali
+Salyan,64.3,17.5,18.2,Karnali
+Rolpa,59.1,15.2,25.8,Karnali
+Pyuthan,44.2,23.1,32.7,Karnali
+Dang,44.5,30.3,25.2,Karnali
+Banke,49.1,21.3,29.6,Province 5
+Bardiya,58.0,10.5,31.5,Province 5
+Surkhet,65.3,10.0,24.8,Province 5
+Jajarkot,56.3,21.9,21.9,Karnali
+Dailekh,63.3,20.3,16.4,Karnali
+Dolpa,87.5,0.0,12.5,Karnali
+Jumla,85.7,0.0,14.3,Karnali
+Kalikot,57.7,30.8,11.5,Karnali
+Mugu,75.0,0.0,25.0,Province 5
+Humla,0.0,0.0,0.0,Province 5
+Bajhang,68.6,8.0,23.3,Province 5
+Bajura,17.1,31.7,51.2,Province 7
+Achham,61.0,24.4,14.6,Province 7
+Doti,65.0,15.7,19.3,Province 7
+Kailali,61.1,19.5,19.4,Province 7
+Kanchanpur,70.4,7.6,22.1,Province 7
+Dadeldhura,52.2,17.4,30.4,Province 7
+Baitadi,65.4,16.3,18.3,Province 7
+Darchula,23.4,33.8,42.8,Province 7
+Total,57.0,17.2,25.8,Unknown

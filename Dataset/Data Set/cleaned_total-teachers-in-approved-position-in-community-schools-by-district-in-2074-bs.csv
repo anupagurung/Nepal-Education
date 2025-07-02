@@ -1,0 +1,79 @@
+province no,district,approved teacher posts primary,approved teacher posts lower secondary,approved teacher posts secondary,rahat teacher posts primary,rahat teacher posts lower secondary,rahat teacher posts secondary
+Province 1,Taplejung,937.0,201,118,202,87,58
+Province 1,Panchthar,1073.0,203,111,206,148,121
+Province 1,Ilam,1404.0,255,177,196,177,104
+Province 1,Jhapa,2327.0,425,386,149,204,85
+Province 1,Morang,2173.0,627,405,615,164,150
+Province 1,Sunsari,1192.0,442,293,521,119,106
+Province 1,Dhankuta,926.0,180,124,136,110,94
+Province 1,Terhathum,752.0,195,127,104,40,42
+Province 1,Sankhuwasabha,1050.0,169,137,131,90,64
+Province 1,Bhojpur,1102.0,211,154,162,82,75
+Province 1,Solukhumbu,773.0,130,103,119,74,61
+Province 1,Okhaldhunga,835.0,174,90,246,88,94
+Province 1,Khotang,1146.0,212,144,320,148,128
+Province 1,Udayapur,947.0,182,129,430,242,146
+ Province 2,Saptari,1306.0,268,233,446,187,93
+ Province 2,Siraha,1314.0,233,199,399,79,80
+ Province 2,Dhanusha,1306.0,237,274,467,71,75
+ Province 2,Mahottari,1058.0,221,207,407,70,65
+ Province 2,Rautahat,1051.0,174,190,541,84,68
+ Province 2,Bara,1159.0,251,174,516,80,69
+ Province 2,Parsa,1122.0,203,151,390,115,79
+ Province 2,Sarlahi,1221.0,287,174,439,110,89
+Province 3,Sindhuli,948.0,155,145,684,171,122
+Province 3,Ramechhap,926.0,158,117,336,187,108
+Province 3,Dolakha,993.0,146,131,236,152,113
+Province 3,Sindhupalchok,1251.0,151,141,454,268,201
+Province 3,Kavrepalanchok,1726.0,278,292,388,298,162
+Province 3,Lalitpur,1009.0,301,256,142,88,74
+Province 3,Bhaktapur,872.0,205,177,59,68,30
+Province 3,Kathmandu,2058.0,795,725,170,241,205
+Province 3,Nuwakot,1185.0,205,169,311,151,99
+Province 3,Rasuwa,356.0,53,38,24,20,20
+Province 3,Dhading,1281.0,207,154,529,196,124
+Province 3,Makwanpur,1407.0,185,146,482,280,145
+Province 3,Chitwan,1693.0,405,309,211,141,82
+Gandaki,Gorkha,1558.0,276,238,232,130,94
+Gandaki,Lamjung,1303.0,257,192,85,85,81
+Gandaki,Tanahu,1946.0,393,326,88,114,85
+Gandaki,Syangja,1859.0,430,310,138,137,125
+Gandaki,Kaski,1629.0,383,376,100,131,107
+Gandaki,Manang,132.0,39,21,7,1,1
+Gandaki,Mustang,232.0,52,42,12,1,1
+Gandaki,Myagdi,699.0,175,115,136,71,50
+Gandaki,Parbat,1183.0,269,229,133,92,75
+Gandaki,Baglung,1401.0,267,211,324,168,157
+Gandaki,Nawalparasi_East,1050.0,0,0,0,0,0
+Province 5,Gulmi,1472.0,282,257,312,173,142
+Province 5,Palpa,1597.0,322,246,213,171,161
+Province 5,Nawalparasi_ West,1502.0,310,228,499,239,169
+Province 5,Rupandehi,1525.0,291,271,423,224,167
+Province 5,Kapilbastu,996.0,159,140,429,102,96
+Province 5,Arghakhanchi,1155.0,193,181,232,137,87
+Province 5,Pyuthan,849.0,124,118,264,106,50
+Province 5,Rolpa,842.0,141,63,167,68,53
+Province 5,Rukum_East,0.0,0,0,0,0,0
+Province 5,Dang,1240.0,278,222,455,134,56
+Province 5,Banke,827.0,183,152,460,102,54
+Province 5,Bardiya,862.0,184,154,490,164,86
+Karnali,Rukum_ West,775.0,130,98,290,149,78
+Karnali,Salyan,884.0,103,91,356,100,62
+Karnali,Surkhet,1197.0,245,156,424,157,108
+Karnali,Dailekh,878.0,108,91,414,201,126
+Karnali,Jajarkot,621.0,107,53,317,115,62
+Karnali,Dolpa,385.0,55,36,18,18,14
+Karnali,Jumla,440.0,80,60,70,53,56
+Karnali,Kalikot,453.0,86,65,229,56,50
+Karnali,Mugu,336.0,64,45,23,12,11
+Karnali,Humla,319.0,75,24,42,17,17
+Province 7,Bajura,541.0,133,72,163,46,41
+Province 7,Bajhang,826.0,124,115,417,169,121
+Province 7,Achham,835.0,157,81,457,142,149
+Province 7,Kailali,1063.0,209,144,829,368,225
+Province 7,KanchaMCur,869.0,206,142,360,198,147
+Province 7,Doti,724.0,146,91,346,120,91
+Province 7,Dadeldhura,598.0,157,92,220,69,71
+Province 7,Baitadi,943.0,185,169,393,147,114
+Province 7,Darchula,801.0,122,101,154,95,48
+All,Total,80176.0,16224,12718,21889,9612,6919

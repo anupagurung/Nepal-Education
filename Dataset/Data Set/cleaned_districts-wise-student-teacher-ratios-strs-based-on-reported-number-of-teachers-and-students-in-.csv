@@ -1,0 +1,77 @@
+district,province,primary,lss,basic,ss,hss,ss.1,total
+Taplejung,Province 1,7,12,8,17,17,17,9
+Panchthar,Province 1,14,10,13,7,7,7,12
+Ilam,Province 1,0,0,0,0,0,0,0
+Jhapa,Province 1,30,61,32,155,155,155,35
+Morang,Province 1,16,12,15,10,10,10,14
+Sunsari,Province 1,15,29,17,8,8,9,16
+Dhankuta,Province 1,14,14,14,9,9,9,13
+Terhathum,Province 1,11,0,14,56,56,93,15
+Sankhuwasabha,Province 1,8,11,8,3,3,3,7
+Bhojpur,Province 1,0,0,0,0,0,0,0
+Solukhumbu,Province 1,13,62,15,121,121,198,18
+Okhaldhunga,Province 1,11,11,11,7,7,10,11
+Khotang,Province 1,13,17,14,8,8,6,13
+Saptari,Province 2,33,62,38,34,34,36,38
+Siraha,Province 2,28,37,30,49,49,27,30
+Dhanusha,Province 2,23,38,25,0,0,0,18
+Mahottari,Province 2,15,13,14,9,9,18,15
+Rautahat,Province 2,14,17,15,11,11,6,13
+Bara,Province 2,15,11,15,8,8,8,14
+Parsa,Province 2,9,49,12,33,33,45,13
+Sarlahi,Province 2,8,28,10,19,19,25,11
+Sindhuli,Province 3,9,10,9,5,5,6,8
+Ramechhap,Province 3,13,2,11,15,15,15,11
+Dolakha,Province 3,20,18,20,9,9,9,16
+Sindhupalchok,Province 3,12,20,13,8,8,10,13
+Kavrepalanchok,Province 3,135,0,130,0,0,0,91
+Lalitpur,Province 3,0,0,0,0,0,0,0
+Bhaktapur,Province 3,105,106,105,0,0,0,49
+Kathmandu,Province 3,21,53,24,32,32,19,23
+Nuwakot,Province 3,19,32,20,0,0,0,16
+Rasuwa,Province 3,8,0,7,2,2,0,4
+Dhading,Province 3,18,16,18,13,13,15,17
+Makwanpur,Province 3,18,18,18,12,12,9,15
+Chitwan,Province 3,14,16,15,8,8,10,13
+Gorkha,Gandaki,22,17,20,12,12,10,17
+Lamjung,Gandaki,7,0,7,0,0,0,7
+Tanahu,Gandaki,5,6,5,7,7,7,5
+Syangja,Gandaki,14,22,15,14,14,14,15
+Kaski,Gandaki,15,20,16,11,11,11,15
+Manang,Gandaki,13,20,15,10,10,15,15
+Mustang,Gandaki,13,15,13,8,8,9,12
+Myagdi,Gandaki,17,21,18,10,10,11,16
+Parbat,Gandaki,41,0,55,0,0,87,59
+Baglung,Gandaki,13,34,15,52,52,52,16
+Nawalparasi_East,Gandaki,11,20,12,11,11,17,13
+Gulmi,Province 5,16,17,16,9,9,9,15
+Palpa,Province 5,12,15,12,9,9,11,12
+Nawalparasi_West,Province 5,17,43,19,13,13,10,17
+Rupandehi,Province 5,22,31,24,20,20,25,24
+Kapilbastu,Province 5,20,18,19,9,9,11,17
+Arghakhanchi,Province 5,10,20,11,8,8,9,11
+Pyuthan,Province 5,0,0,0,0,0,0,0
+Rolpa,Province 5,0,0,0,0,0,0,0
+Rukum_East,Province 5,5,0,6,0,0,0,7
+Dang,Province 5,9,9,9,6,6,6,9
+Banke,Province 5,9,0,10,0,0,0,10
+Bardiya,Province 5,11,8,11,20,20,20,11
+Rukum_West,Karnali,9,13,10,4,4,4,9
+Salyan,Karnali,46,0,30,0,0,0,30
+Surkhet,Karnali,5,0,6,0,0,0,7
+Dailekh,Karnali,12,6,11,0,0,0,9
+Jajarkot,Karnali,5,44,6,5,5,5,6
+Dolpa,Karnali,0,0,0,0,0,0,2
+Jumla,Karnali,22,37,24,10,10,14,22
+Kalikot,Karnali,25,25,25,11,11,15,23
+Mugu,Karnali,19,19,19,16,16,17,19
+Humla,Karnali,16,18,16,10,10,10,16
+Bajura,Province 7,3,5,3,0,0,0,3
+Bajhang,Province 7,6,12,7,0,0,0,7
+Achham,Province 7,10,30,11,197,197,99,12
+Kailali,Province 7,2,2,2,1,1,1,2
+Kanchanpur,Province 7,14,16,14,22,22,38,15
+Doti,Province 7,3,0,4,0,0,0,4
+Dadeldhura,Province 7,6,129,8,35,35,10,8
+Baitadi,Province 7,19,19,19,24,24,20,19
+Darchula,Province 7,16,18,17,11,11,11,15
